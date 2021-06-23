@@ -1,9 +1,9 @@
 (**
 ---
-title: Übung 09
-category: Übungen(deutsch)
-categoryindex: 2
-index: 10
+title: 09 Bioinformatik mit F#
+category: Musterlösungen(deutsch)
+categoryindex: 1
+index: 9
 ---
 *)
 
